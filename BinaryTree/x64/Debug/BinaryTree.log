@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Visual Projects\BinaryTree\BinaryTree\BinaryTree.h(337): warning C4715: BinaryTree<int>::find_p: значение возвращается не при всех путях выполнения
+D:\Visual Projects\BinaryTree\BinaryTree\BinaryTree.h(308): warning C4715: BinaryTree<int>::find_max_p: значение возвращается не при всех путях выполнения
+D:\Visual Projects\BinaryTree\BinaryTree\BinaryTree.h(318): warning C4715: BinaryTree<int>::find_min_p: значение возвращается не при всех путях выполнения
+D:\Visual Projects\BinaryTree\BinaryTree\BinaryTree.h(359): warning C4715: BinaryTree<int>::find_parent: значение возвращается не при всех путях выполнения
+  BinaryTree.vcxproj -> D:\Visual Projects\BinaryTree\x64\Debug\BinaryTree.exe
